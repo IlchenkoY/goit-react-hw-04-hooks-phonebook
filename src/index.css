@@ -1,0 +1,12 @@
+@import 'modern-normalize/modern-normalize.css';
+
+body {
+  text-align: center;
+  background-color: #b0e0e6;
+}
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
