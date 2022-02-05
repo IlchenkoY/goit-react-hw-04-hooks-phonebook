@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAEA,KACE,iBAAkB,CAClB,wBACF,CACA,MAEE,QAAS,CACT,SAAU,CACV,eACF","file":"main.907a8057.chunk.css","sourcesContent":["@import 'modern-normalize/modern-normalize.css';\n\nbody {\n  text-align: center;\n  background-color: #b0e0e6;\n}\nul,\nol {\n  margin: 0;\n  padding: 0;\n  list-style: none;\n}\n"]}
